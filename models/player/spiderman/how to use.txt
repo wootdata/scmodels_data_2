@@ -1,0 +1,10 @@
+by default, you'll see Spider-man
+
+If you wish to use symbiote Spider-man (black costume), simply do this:
+
+Rename spiderman.mdl to spiderman2.mdl
+
+then rename blackspiderman.mdl to spiderman.mdl
+
+thats it!
+

@@ -1,0 +1,31 @@
+Stickman
+-----------------------------------------------------
+MODEL INFO:
+Author:         Wolverine
+Model Name:   	Stickman
+Total Size:  	149 kb
+Build Time:     3 Hours
+Programs Used:	Milkshape 3d v1.0 , Photoshop 5, HL Modelviewer
+
+Description:
+This is one of my newest models.
+It stays under the category "Not so good but a bit fun modelscategory"
+or even the "NOT AT ALL GOOD CATEGORY but still a little fun modelscategory"
+
+Installation: Copy all files into Half-life/Valve/Models/player/Weird
+
+Distribution:
+Distribute this model freely - But please include this .txt file.
+And if U are planning to use any of my "parts" please contact me before U release it.
+
+Thanks to: Valve who made have made the BEST game EVER ¤¤¤HALF-LIFE¤¤¤
+---------------------------------------------
+
+
+I´m really fond of getting so much mails about people needing help for modeling
+and other HL (or any other game) Questions.
+So feel free to ask me anything !
+Also if U likes this or any other model I´ve made please let me know.   =)
+
+E-mail:	   Lobowolverine@hotmail.com
+

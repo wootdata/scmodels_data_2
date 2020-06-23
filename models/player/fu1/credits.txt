@@ -1,0 +1,22 @@
+FU alternate costumes 9 - 10 - 03
+---------------------------------
+
+FU MODELs by : FU-CHEN aka TIGERSTYLE aka FU aka FULAW
+FU SKINs by : FULAW aka FU-CHEN aka TIGERSTYLE aka FU
+
+CUSTOM ANIMATIONS by : FU-CHEN aka TIGERSTYLE aka FU aka FULAW
+
+Contents:
+	fu1.mdl
+	fu2.mdl
+	
+Installation:
+	Extract FU_alt.zip to your halflife TS folder
+
+	C:\sierra\halflife\ts\"extract here"
+
+Execution:
+	Bring down console type 'model fu1' then hit enter. (Hit it hard)
+	Bring down console type 'model fu2' then hit enter. (Hit it hard)
+	
+Contact: waterfire7@hotmail.com

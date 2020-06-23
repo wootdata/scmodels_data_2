@@ -1,0 +1,15 @@
+------------------------------------------------------
+Nishiko-kun Color (Tokyo Nishi-Kokubunji's Yuru-chara)
+for Sven Co-op 5.0 player model
+
+Yuru Kawa Bun!
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI Ver.2, EDGE
+Website: http://tepodonsc35.g1.xrea.com/
+
+07-10-2017 updated ver1.1 (Fixed Skin)
+06-10-2017 completed
+------------------------------------------------------
