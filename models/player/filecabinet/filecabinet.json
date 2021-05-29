@@ -1,1 +1,64 @@
-{"seq_groups": 1, "hash": "eeaadf0620fb0f23c0ca494054dd3a95", "tri_count": "14"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "headcrab_scene_file_model",
+					"polys": 14,
+					"verts": 8
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 1000,
+			"frame": 1,
+			"options": "",
+			"sequence": 1,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "eeaadf0620fb0f23c0ca494054dd3a95",
+	"name": "valve/models/filecabinet.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "idle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "headcrabbed"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "filecabinet",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 120,
+			"name": "file2.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 120,
+			"name": "file1.bmp",
+			"width": 48
+		}
+	],
+	"version": 10
+}

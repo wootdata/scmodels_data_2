@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "38722943f0c3ce4626c55a1b7f9edc41", "tri_count": "1086"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "GigaCirno",
+					"polys": 1086,
+					"verts": 571
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "38722943f0c3ce4626c55a1b7f9edc41",
+	"name": "GigaCirno.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "blender_implicit",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 4,
+			"height": 1024,
+			"name": "Cirno.bmp",
+			"width": 1024
+		}
+	],
+	"version": 10
+}
