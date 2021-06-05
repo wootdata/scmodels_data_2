@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "dress",
+					"name": "touhou_rumia_dress",
 					"polys": 837,
 					"verts": 515
 				}
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "dress1",
+					"name": "touhou_rumia_dress1",
 					"polys": 528,
 					"verts": 317
 				}
@@ -45,7 +45,7 @@
 		{
 			"models": [
 				{
-					"name": "dress2",
+					"name": "touhou_rumia_dress2",
 					"polys": 1532,
 					"verts": 766
 				}
@@ -55,9 +55,9 @@
 		{
 			"models": [
 				{
-					"name": "dress3",
+					"name": "touhou_rumia_dress3",
 					"polys": 2383,
-					"verts": 1292
+					"verts": 1293
 				}
 			],
 			"name": "body"
@@ -65,7 +65,7 @@
 		{
 			"models": [
 				{
-					"name": "arm1",
+					"name": "touhou_rumia_arm1",
 					"polys": 2210,
 					"verts": 1115
 				}
@@ -75,7 +75,7 @@
 		{
 			"models": [
 				{
-					"name": "arm2",
+					"name": "touhou_rumia_arm2",
 					"polys": 2210,
 					"verts": 1115
 				}
@@ -85,7 +85,7 @@
 		{
 			"models": [
 				{
-					"name": "body1",
+					"name": "touhou_rumia_body1",
 					"polys": 1191,
 					"verts": 651
 				}
@@ -95,9 +95,9 @@
 		{
 			"models": [
 				{
-					"name": "body2",
-					"polys": 3562,
-					"verts": 1839
+					"name": "touhou_rumia_body2",
+					"polys": 2957,
+					"verts": 1573
 				}
 			],
 			"name": "body"
@@ -105,7 +105,7 @@
 		{
 			"models": [
 				{
-					"name": "a1",
+					"name": "touhou_rumia_a1",
 					"polys": 1028,
 					"verts": 670
 				}
@@ -115,9 +115,9 @@
 		{
 			"models": [
 				{
-					"name": "a1_ct",
+					"name": "touhou_rumia_a1_ct",
 					"polys": 2604,
-					"verts": 1326
+					"verts": 1325
 				}
 			],
 			"name": "body"
@@ -125,7 +125,7 @@
 		{
 			"models": [
 				{
-					"name": "a2",
+					"name": "touhou_rumia_a2",
 					"polys": 380,
 					"verts": 248
 				}
@@ -135,7 +135,7 @@
 		{
 			"models": [
 				{
-					"name": "a2_ct",
+					"name": "touhou_rumia_a2_ct",
 					"polys": 984,
 					"verts": 493
 				}
@@ -145,7 +145,7 @@
 		{
 			"models": [
 				{
-					"name": "a3",
+					"name": "touhou_rumia_a3",
 					"polys": 584,
 					"verts": 390
 				}
@@ -155,7 +155,7 @@
 		{
 			"models": [
 				{
-					"name": "a3_ct",
+					"name": "touhou_rumia_a3_ct",
 					"polys": 1552,
 					"verts": 773
 				}
@@ -165,7 +165,7 @@
 		{
 			"models": [
 				{
-					"name": "a4",
+					"name": "touhou_rumia_a4",
 					"polys": 356,
 					"verts": 276
 				}
@@ -175,7 +175,7 @@
 		{
 			"models": [
 				{
-					"name": "a4_ct",
+					"name": "touhou_rumia_a4_ct",
 					"polys": 356,
 					"verts": 276
 				}
@@ -185,7 +185,7 @@
 		{
 			"models": [
 				{
-					"name": "a5",
+					"name": "touhou_rumia_a5",
 					"polys": 411,
 					"verts": 321
 				}
@@ -195,7 +195,7 @@
 		{
 			"models": [
 				{
-					"name": "a5_ct",
+					"name": "touhou_rumia_a5_ct",
 					"polys": 1036,
 					"verts": 534
 				}
@@ -205,7 +205,7 @@
 		{
 			"models": [
 				{
-					"name": "a6",
+					"name": "touhou_rumia_a6",
 					"polys": 674,
 					"verts": 504
 				}
@@ -215,9 +215,9 @@
 		{
 			"models": [
 				{
-					"name": "a6_ct",
+					"name": "touhou_rumia_a6_ct",
 					"polys": 1628,
-					"verts": 824
+					"verts": 822
 				}
 			],
 			"name": "body"
@@ -225,7 +225,7 @@
 		{
 			"models": [
 				{
-					"name": "face1",
+					"name": "touhou_rumia_face1",
 					"polys": 744,
 					"verts": 462
 				}
@@ -235,9 +235,9 @@
 		{
 			"models": [
 				{
-					"name": "face2",
+					"name": "touhou_rumia_face2",
 					"polys": 2723,
-					"verts": 1596
+					"verts": 1594
 				}
 			],
 			"name": "body"
@@ -245,7 +245,7 @@
 		{
 			"models": [
 				{
-					"name": "face_ct",
+					"name": "touhou_rumia_face_ct",
 					"polys": 469,
 					"verts": 274
 				}
@@ -255,9 +255,9 @@
 		{
 			"models": [
 				{
-					"name": "ribon",
+					"name": "touhou_rumia_ribon",
 					"polys": 240,
-					"verts": 112
+					"verts": 109
 				}
 			],
 			"name": "body"
@@ -406,14 +406,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -531,8 +531,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "87804f5b06315a343385cce8882592f2",
-	"name": "touhou_rumia.mdl",
+	"md5": "241cf5216debe6dadd4d765269c59250",
+	"name": "rumia.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1491,7 +1491,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1915424,
+	"size": 1919092,
 	"skeleton": [
 		{
 			"name": "Bip01",
