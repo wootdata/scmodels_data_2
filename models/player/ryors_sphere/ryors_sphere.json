@@ -1,0 +1,416 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "sphere1",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere2",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere3",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere4",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere5",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere6",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere7",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere8",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere9",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere10",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere11",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere12",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere13",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere14",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere15",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere16",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere17",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere18",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere19",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere20",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere21",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere22",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere23",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere24",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere25",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere26",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere27",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere28",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere29",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere30",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere31",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere32",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere33",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere34",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere35",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere36",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere37",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "sphere38",
+					"polys": 4060,
+					"verts": 2048
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "0cda4bb333f1199ea85873832a249411",
+	"name": "ryors_sphere.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 2,
+			"name": "idle"
+		}
+	],
+	"size": 4636704,
+	"skeleton": [
+		{
+			"name": "root",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 1024,
+			"name": "default.bmp",
+			"width": 1024
+		}
+	],
+	"version": 10
+}
