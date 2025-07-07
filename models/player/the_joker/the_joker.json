@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "036e17053b256005c924e2e7fcac5675",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\punisher\\dean.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -429,7 +430,11 @@
 	],
 	"id": 1414743113,
 	"md5": "58fb796628bd985483664c1e63f9acce",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "H:\\IsabelleA\\IsabelleA.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

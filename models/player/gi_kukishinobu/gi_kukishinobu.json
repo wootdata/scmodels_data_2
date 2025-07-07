@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -772,7 +773,11 @@
 	],
 	"id": 1414743113,
 	"md5": "540100fea27c2661fdd67438cf6126a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hololive_Towa.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

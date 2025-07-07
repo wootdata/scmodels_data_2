@@ -88,6 +88,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -358,7 +359,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a4ff8f37ca7da68888a5a881fcd5c558",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cdc.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

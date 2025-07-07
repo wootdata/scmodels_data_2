@@ -112,6 +112,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -453,7 +454,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f4b0e219f03e9cf6b742755045c6591e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NeKoPaRa_Coconut.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

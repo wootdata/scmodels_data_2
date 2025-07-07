@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a18b1c4a47d7972d6a2fbb41653db6e7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Games\\models\\sf\\base\\scott0rtest.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

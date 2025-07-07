@@ -168,6 +168,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -516,7 +517,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b3875c0c0392d2108eb9ef4a8f155267",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "horo_saw.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

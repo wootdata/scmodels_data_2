@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1e9ef4ec3dec7e6a5f1047bb198c8fd4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hugh_neutron.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

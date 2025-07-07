@@ -143,6 +143,7 @@
 			"name": "KZ-Sheez"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -413,7 +414,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0fd94ac79dd189c178e6a2d61f076c6f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "LoliPirate.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "142d505440df0dcb22e92e323f15c2e9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hevsf.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

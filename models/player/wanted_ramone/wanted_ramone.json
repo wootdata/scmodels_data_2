@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6d4fc0ef3b91b0ba1d1b51325ea0db71",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\MilkShape 3D\\Wanted\\MP Models\\Ramone\\Ramone.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "81a38ade1e6185c061f9898202bfbfbd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\stracraft torch\\lol.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

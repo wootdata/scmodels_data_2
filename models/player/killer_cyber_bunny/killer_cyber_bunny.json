@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f703c4e2c3f24ff11739a45afe7ec989",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/Stamp/Stamp.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

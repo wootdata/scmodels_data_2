@@ -43,6 +43,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1ca4614deab516b3e7e9f1d6f30ea122",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "terror.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

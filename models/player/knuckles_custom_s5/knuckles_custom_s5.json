@@ -33,6 +33,7 @@
 			"name": "Knuckles_the_Echidna"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -464,7 +465,11 @@
 	],
 	"id": 1414743113,
 	"md5": "07579f87570b261f8bc1683b12e55467",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "knuckles.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

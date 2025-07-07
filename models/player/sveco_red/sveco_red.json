@@ -43,6 +43,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "42b053c3d5b64eba9a112fe149f8b498",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sveco_blue.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

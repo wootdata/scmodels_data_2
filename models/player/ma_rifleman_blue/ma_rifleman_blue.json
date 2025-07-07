@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "31c770cfb16b1009ba9fb34f662bdba4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ma_riflemanblue.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

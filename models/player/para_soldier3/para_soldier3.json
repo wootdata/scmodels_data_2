@@ -33,6 +33,7 @@
 			"name": "para"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a1f85e0969936e817d8456be8b5094fe",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "para_soldier3.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "48484d43e1c3a555c8f620cf378be85d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "OP4_Shephard.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

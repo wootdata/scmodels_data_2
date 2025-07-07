@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -266,7 +267,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b4af91514d6d725082718d94d14db155",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Shannon Caldwell\\My Documents\\Work\\Sve",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

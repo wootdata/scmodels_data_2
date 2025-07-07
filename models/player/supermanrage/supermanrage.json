@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "764bd981766b23816a2a4a9acad0ab2e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SUPERMANrage.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

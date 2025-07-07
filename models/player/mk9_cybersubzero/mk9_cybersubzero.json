@@ -103,6 +103,7 @@
 			"name": "byDavidManeyro"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5beb38122aec6dd312d531719a3190dc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Admin\\Desktop\\pack mk\\cyber\\gordon.mdl\\",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

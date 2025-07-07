@@ -118,6 +118,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -788,7 +789,11 @@
 	],
 	"id": 1414743113,
 	"md5": "62f2d9c0cd109cfadcf902e189bf4bd1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "smol_ump9.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

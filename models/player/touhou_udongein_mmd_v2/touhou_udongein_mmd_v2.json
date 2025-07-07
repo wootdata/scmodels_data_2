@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b992dd7b105e82af36ab7e661412a548",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_udongein_mmd.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -153,6 +153,7 @@
 			"name": "gear"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -423,7 +424,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cc0f38caa86a9d91a444aaa090a02f1e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AlliedSoldier.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

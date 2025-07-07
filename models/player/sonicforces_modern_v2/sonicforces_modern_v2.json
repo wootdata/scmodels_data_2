@@ -118,6 +118,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -388,7 +389,11 @@
 	],
 	"id": 1414743113,
 	"md5": "62f90b7ff6b30daf24ab5dfe4a265147",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\SonicForces_Modern\\SonicForces_Modern.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

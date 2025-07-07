@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -344,7 +345,11 @@
 	],
 	"id": 1414743113,
 	"md5": "32dfad66d4959c5736fbab719350d473",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "woop_col.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

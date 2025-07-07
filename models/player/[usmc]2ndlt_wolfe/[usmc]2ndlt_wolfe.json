@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "43d6822fd6aa4bbba3df4ffac9d6d0f1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]2ndLT_Wolfe.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

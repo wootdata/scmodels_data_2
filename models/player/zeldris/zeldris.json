@@ -243,6 +243,7 @@
 			"name": "Shoe_R"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -513,7 +514,11 @@
 	],
 	"id": 1414743113,
 	"md5": "364fb2182aefdb531a7275517784adab",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Zeldris.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

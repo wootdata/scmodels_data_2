@@ -213,6 +213,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -476,7 +477,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b0e063285c2818580805a5214e5897c2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Miside_Mita.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

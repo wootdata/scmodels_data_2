@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3fe368d1631f5e33957d062b40451721",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/Turgeon/Turgeon.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

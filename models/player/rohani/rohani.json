@@ -78,6 +78,7 @@
 			"name": "mrbond123"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -348,7 +349,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1f1d97e4dacdc8fcb0d6cbf4cb0f449e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Rohani.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1661789061,
 	"events": [
@@ -265,7 +266,11 @@
 	],
 	"id": 1414743113,
 	"md5": "905f8b21c445de58932342d532a8e2a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "2d_eecat_fumo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

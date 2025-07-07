@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0b4bd11b4deed55dd9c99d8350fbb28c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "rebelman1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

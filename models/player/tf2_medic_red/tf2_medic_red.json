@@ -63,6 +63,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -382,7 +383,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cb40c4aeb7f6748edd7a7b4e5803ff23",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tf2_medic_blue.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

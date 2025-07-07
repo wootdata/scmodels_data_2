@@ -33,6 +33,7 @@
 			"name": "torso"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5515b1987bb5bf380624ca9a91b5bd28",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DV_GinaHC.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

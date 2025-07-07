@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6efb7738ac7a6f4a7a7d5bea4bbe677e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\SteamLibrary\\steamapps\\common\\Sven Co-op\\custom_modles\\player",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

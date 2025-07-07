@@ -223,6 +223,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -510,7 +511,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7633f2027ce98ad1bf8b73ec85189d8a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ZZZ_Ellen_School.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

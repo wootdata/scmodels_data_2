@@ -48,6 +48,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 19,
@@ -294,7 +295,11 @@
 	],
 	"id": 1414743113,
 	"md5": "179b6318af44baee12eb8ebb7c64e501",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bgman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

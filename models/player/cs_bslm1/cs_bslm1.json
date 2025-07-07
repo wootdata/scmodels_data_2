@@ -28,6 +28,7 @@
 			"name": "lqc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9f5e39d76b26e142aa88eb7ae719801c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cs_bslm1.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -396,7 +397,11 @@
 	],
 	"id": 1414743113,
 	"md5": "348e8adf78f708d00be3ce15ed3870c7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "N64_MetalMario2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

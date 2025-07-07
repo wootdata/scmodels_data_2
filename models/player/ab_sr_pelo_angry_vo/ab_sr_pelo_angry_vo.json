@@ -78,6 +78,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -362,7 +363,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6e23941669e969de077e7a944e790fd3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AB_Sr_Pelo_angry.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

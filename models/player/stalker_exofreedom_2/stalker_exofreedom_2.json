@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ad6ac1c86507459e15629e348d92fd8c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "stalker_exo_freedom_2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

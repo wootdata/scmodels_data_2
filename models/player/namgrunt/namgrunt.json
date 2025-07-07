@@ -43,6 +43,7 @@
 			"name": "soldier"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e6b89fee0a17517805e7a37a3b39b677",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "compile.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1579695884,
 	"events": [
@@ -351,7 +352,11 @@
 	],
 	"id": 1414743113,
 	"md5": "71460955200a8f55177701df59bd8415",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "heroine.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

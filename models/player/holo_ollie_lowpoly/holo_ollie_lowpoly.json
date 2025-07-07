@@ -33,6 +33,7 @@
 			"name": "Ollie"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -674,7 +675,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3b1e27cdc61b5513851899e5aa8d3b2c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Holo_Ollie_LowPoly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

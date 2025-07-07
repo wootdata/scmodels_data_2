@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c85cd423bc23aaff64b4f19878e6327e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimiku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

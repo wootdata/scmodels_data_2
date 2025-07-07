@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "09667cb3ffe9015a8bdc758244add65d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/AAA-Clan/AAA-Clan.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

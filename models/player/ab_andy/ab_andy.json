@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7d132385153100ce8a2df00a20464deb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\sven cop mods\\sven cop skins\\skins (reparar)\\agregar, sacar p`",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

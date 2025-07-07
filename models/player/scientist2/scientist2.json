@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4c0a4eece984acf2c5d41ddff19d8a2b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "scientist2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

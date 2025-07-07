@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "105aa80da812047407af3a1d0d49ad21",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mario.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

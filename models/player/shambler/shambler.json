@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "591353db08e7fe841345ab3181f85107",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shambler.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

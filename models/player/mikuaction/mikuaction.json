@@ -98,6 +98,7 @@
 			"name": "Miku"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -368,7 +369,11 @@
 	],
 	"id": 1414743113,
 	"md5": "205ac7ec65eb5b9dd7709a294d221ce4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mikuaction.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -410,7 +411,11 @@
 	],
 	"id": 1414743113,
 	"md5": "15df783350a5ac403f6c2ee00b4d9dc9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Allan\\Desktop\\SovNavy_1969c\\SovNavy_1969c.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

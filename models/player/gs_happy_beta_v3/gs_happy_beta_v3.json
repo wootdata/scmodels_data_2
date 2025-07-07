@@ -103,6 +103,7 @@
 			"name": "Happy"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -436,7 +437,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a1129105ac912f50477808d2ec548e99",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Happy_Beta.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

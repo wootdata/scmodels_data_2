@@ -73,6 +73,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "131e4d19c5ae1d85ee3e3847ee17a290",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ff_soldier.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

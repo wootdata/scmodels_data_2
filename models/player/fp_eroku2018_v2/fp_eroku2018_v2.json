@@ -33,6 +33,7 @@
 			"name": "Shadow_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -342,7 +343,11 @@
 	],
 	"id": 1414743113,
 	"md5": "516aec89218b0238b9714f2ab3a2aa09",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mephiles.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

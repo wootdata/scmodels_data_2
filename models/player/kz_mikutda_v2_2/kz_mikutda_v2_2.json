@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -423,7 +424,11 @@
 	],
 	"id": 1414743113,
 	"md5": "edd2092b2423533402f43491c9dee0c8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KZ_MikuTDA_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

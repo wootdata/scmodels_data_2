@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -247,7 +248,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2f3b2805727a2e5002474b6438dc64e9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tfc/models/player/pyro/pyro.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

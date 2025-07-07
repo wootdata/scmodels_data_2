@@ -63,6 +63,7 @@
 			"name": "hina"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0e6593b7194eebf39d2775c2fc6050d4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_hieda_no_akyuu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

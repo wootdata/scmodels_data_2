@@ -33,6 +33,7 @@
 			"name": "unm_barney"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0fe53a2a3377f20c7b9f6a9319ead95e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sahadmin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

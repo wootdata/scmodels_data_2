@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1269962075,
 	"events": [
@@ -249,7 +250,11 @@
 	],
 	"id": 1414743113,
 	"md5": "939ab91645fa3a7c92161e35f1a17ab5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "starcraft_unknown.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

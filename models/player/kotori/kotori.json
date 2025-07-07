@@ -33,6 +33,7 @@
 			"name": "mrbond123"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1405361590,
 	"events": [
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5bd1ecec9c0bd6119456b27529b6e9aa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mikufinal.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

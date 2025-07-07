@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "35fb66be21ccaf491d8af68b5b6b30ed",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Shacks PC\\Desktop\\ribbon\\ribbon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

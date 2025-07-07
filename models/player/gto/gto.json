@@ -22,12 +22,17 @@
 			"name": "windshield"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1121213272,
 	"events": [],
 	"id": 1414743113,
 	"md5": "aa1b617b154734783cee4369e15609d7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Steam3\\Steamapps\\Book212\\half-life\\TS\\models\\player\\ShayGTO\\Sq",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

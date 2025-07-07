@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e098d227e15d6a40dc62ba2ac4ecc0ee",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\SuperMarioSkinPack\\Goomba\\Goomba.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
