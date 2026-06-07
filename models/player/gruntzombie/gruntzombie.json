@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1120457640,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "36566acce4830e7c0ef3b94eaad684ef",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "gruntzombie.mdl",
 	"preview": true,
 	"readme": false,

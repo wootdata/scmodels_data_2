@@ -212,7 +212,7 @@
 			"type": 8
 		}
 	],
-	"date": 1700165291,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 5004,
@@ -772,6 +772,7 @@
 	"md5": "88fa48bfefe49c656282f389b0122319",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "gi_barbara_dark.mdl",
 	"preview": true,
 	"readme": false,

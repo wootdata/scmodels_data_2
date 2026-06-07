@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 961490638,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "94be21a31641f32a41749fa605b3f9e5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/yodan/yodan.mdl",
 	"preview": true,
 	"readme": false,

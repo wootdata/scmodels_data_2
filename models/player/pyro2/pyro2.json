@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1288042796,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 2001,
@@ -250,6 +250,7 @@
 	"md5": "2f3b2805727a2e5002474b6438dc64e9",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/pyro/pyro.mdl",
 	"preview": true,
 	"readme": false,

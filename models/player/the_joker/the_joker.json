@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1579695694,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "036e17053b256005c924e2e7fcac5675",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\punisher\\dean.mdl",
 	"preview": true,
 	"readme": true,

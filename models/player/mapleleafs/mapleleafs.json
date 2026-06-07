@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 944850192,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "3fe368d1631f5e33957d062b40451721",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Turgeon/Turgeon.mdl",
 	"preview": true,
 	"readme": true,

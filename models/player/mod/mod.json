@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 985370044,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "0a296cd8975184958c00b6e83984766b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "i:/hlsdk/playermodels/player/Punisher/Punisher.mdl",
 	"preview": true,
 	"readme": false,

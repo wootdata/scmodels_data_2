@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1514150159,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "105aa80da812047407af3a1d0d49ad21",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "mario.mdl",
 	"preview": true,
 	"readme": false,

@@ -148,7 +148,7 @@
 			"type": 8
 		}
 	],
-	"date": 1702412846,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 5004,
@@ -393,6 +393,7 @@
 	"md5": "0ce45f2365d148ced85e3b773c9c6178",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "nepgear_mazzstella_1.mdl",
 	"preview": false,
 	"readme": false,

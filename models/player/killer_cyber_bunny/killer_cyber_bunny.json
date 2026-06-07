@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185457562,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "f703c4e2c3f24ff11739a45afe7ec989",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Stamp/Stamp.mdl",
 	"preview": true,
 	"readme": false,

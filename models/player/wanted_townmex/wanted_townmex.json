@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1117771786,
+	"date": 1780811473,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "63a24f2e4fd09b8c1484b21ee563f4c8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\MilkShape 3D\\Wanted\\MP Models\\Mex NPC\\Mex_NPC_MP.mdl",
 	"preview": false,
 	"readme": false,
